@@ -1,1 +1,3 @@
-# PostgreSQL Initial SQL files for VladiolaMain REST API
+# PostgreSQL Migrations Files
+
+This project is licensed with the [MIT license](LICENSE.md).
